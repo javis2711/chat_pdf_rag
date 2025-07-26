@@ -13,7 +13,7 @@ from dotenv import load_dotenv
 
 # Tải biến môi trường
 load_dotenv()
-
+# AAAAAAAA
 api_key = os.getenv("GOOGLE_API_KEY")
 
 if not api_key:
